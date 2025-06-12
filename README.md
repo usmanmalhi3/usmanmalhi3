@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman Tahir</h1>
 <h3 align="center">Exploring Innovative Solutions in AI and Machine Learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcaSlrnzQGovekQBYHYg0ZB5Ajy1xZaecLA&s"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanmalhi3&label=Profile%20views&color=0e75b6&style=flat" alt="usmanmalhi3" /> </p>
 
